@@ -48,14 +48,14 @@ body {
   background-color: transparent;
   border: 1px solid #ee2529;
   border-radius: 0rem;
-  font-family: 'byomregular';
+  font-family: 'Open Sans', sans-serif;
 }
 .GuiaContainer .form-control.form-control:focus {
   -webkit-box-shadow: none;
   box-shadow: none;
 }
 .GuiaContainer .form-control input {
-  font-family: 'byomregular';
+  font-family: 'Open Sans', sans-serif;
 }
 .btn-primary {
   background-color: #ee2529;
