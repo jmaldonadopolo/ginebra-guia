@@ -44,11 +44,12 @@ body {
   font-family: 'byomregular';
 }
 .GuiaContainer .form-control {
-  color: #827f7a;
+  color: #425178;
   background-color: transparent;
   border: 1px solid #ee2529;
   border-radius: 0rem;
   font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
 }
 .GuiaContainer .form-control.form-control:focus {
   -webkit-box-shadow: none;
